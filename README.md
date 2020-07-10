@@ -1,11 +1,10 @@
 ### Hi there 👋
-💻 I'm a software engineer
-
-📌 I live in Beijing
-
-🌍 You can know me better by visiting [Luyuan.Wang](http://luyuan.wang)
-
-📧 My email is mail\<at\>luyuan.wang
+- 👶 My name is Luyuan Wang.
+- 💻 I'm a software engineer.
+- 📌 I live in Beijing.
+- 🌍 You can know me better by visiting [Luyuan.Wang](http://luyuan.wang)
+- ✏️ My tech blog is [Blog.Luyuan.Wang](http://blog.luyuan.wang)
+- 📧 My email is mail@luyuan.wang
 
 <!--
 **BeBeBerr/BeBeBerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
