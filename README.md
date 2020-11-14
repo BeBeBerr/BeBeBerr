@@ -4,7 +4,7 @@
 - 📌 I live in Beijing.
 - 🌍 You can know me better by visiting [Luyuan.Wang](http://luyuan.wang)
 - ✏️ My tech blog is [Blog.Luyuan.Wang](http://blog.luyuan.wang) (in Chinese)
-- 📧 My email is mail@luyuan.wang
+- 📧 Reach me via mail@luyuan.wang
 
 <!--
 **BeBeBerr/BeBeBerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
