@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👶 My name is Luyuan Wang.
 - 💻 I'm a software engineer.
-- 📌 I live in Beijing.
+- 📌 I live in Beijing (Currently in Pittsburgh, PA).
 - 🌍 You can know me better by visiting [Luyuan.Wang](http://luyuan.wang)
 - ✏️ My tech blog is [Blog.Luyuan.Wang](http://blog.luyuan.wang) (in Chinese)
 - 📧 Reach me via mail@luyuan.wang
